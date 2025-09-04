@@ -10,35 +10,36 @@ print("age, int:",age,"height, float:",height,"text,  string:",text,"fruitList,l
       fruitList,"colorOfCloth,dict:",colorOfCloth,
 "randomNumbers, set:",randomNumbers,"isOld, bool:",isOld)
 
-exampleInt=726
-
-exampleInt+=6
-
-print(exampleInt)
+exampleInt=726 #присвоєння значення
 
 
 
-exampleInt-=6
+exampleInt+=6 #присвоєння резултат додавання 
 
 print(exampleInt)
 
 
-exampleInt*=6
-
-print(exampleInt)
-exampleInt/=3
+exampleInt-=6 #присвоєння резултат віднімання
 
 print(exampleInt)
 
-exampleInt//=2
+
+exampleInt*=6 #писвоєння резултат множення
+
+print(exampleInt)
+exampleInt/=3 #писвоєння резултат ділення
 
 print(exampleInt)
 
-exampleInt**=2
+exampleInt//=2 #писвоєння резултат ділення націло
 
 print(exampleInt)
 
-exampleInt%=56
+exampleInt**=2 #писвоєння резултат взведення в степінь
+
+print(exampleInt)
+
+exampleInt%=56 #писвоєння резултатділення з остачею
 
 print(exampleInt)
 
